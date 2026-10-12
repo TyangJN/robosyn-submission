@@ -1,0 +1,75 @@
+{
+  "policy": "act",
+  "models": [
+    {
+      "task": "table_rearrangement",
+      "huggingface_repo": "TyangJN/robosyn-act-10tasks",
+      "revision": "5e874cb84a27bdf02c9dfc89781a73a48584608f",
+      "subfolder": "table_rearrangement",
+      "model_sha256": "3149533664acf1d9370c5527585b059db5ac373ea47fbbe7a2cb33daa6bfc5a2"
+    },
+    {
+      "task": "click_bell",
+      "huggingface_repo": "TyangJN/robosyn-act-10tasks",
+      "revision": "5e874cb84a27bdf02c9dfc89781a73a48584608f",
+      "subfolder": "click_bell",
+      "model_sha256": "86f7a4761787298bb1717941d98ac4421a6ca26bd6c0258b48354f2b5b9e05f5"
+    },
+    {
+      "task": "water_pouring",
+      "huggingface_repo": "TyangJN/robosyn-act-10tasks",
+      "revision": "5e874cb84a27bdf02c9dfc89781a73a48584608f",
+      "subfolder": "water_pouring",
+      "model_sha256": "6f4df35448baf62d5abe6e47cc9acbd456041e9c9fb1c2d197b9e224c13ca097"
+    },
+    {
+      "task": "handle_basket",
+      "huggingface_repo": "TyangJN/robosyn-act-10tasks",
+      "revision": "5e874cb84a27bdf02c9dfc89781a73a48584608f",
+      "subfolder": "handle_basket",
+      "model_sha256": "fe50a6410b88dd05464f1bd0af0fd29029ba29f68fecb0b8674a1763a1f6f2fc"
+    },
+    {
+      "task": "items_handover",
+      "huggingface_repo": "TyangJN/robosyn-act-10tasks",
+      "revision": "5e874cb84a27bdf02c9dfc89781a73a48584608f",
+      "subfolder": "items_handover",
+      "model_sha256": "ce45a37d348daab971e9a3f881612badad72c4b66bec7eb8bcf942b18deb74c8"
+    },
+    {
+      "task": "drawer_open_place",
+      "huggingface_repo": "TyangJN/robosyn-act-10tasks",
+      "revision": "5e874cb84a27bdf02c9dfc89781a73a48584608f",
+      "subfolder": "drawer_open_place",
+      "model_sha256": "edb5be63bed6387d8b8456273d42883bec8de06598d3adaca30c75bd1b242cc4"
+    },
+    {
+      "task": "mixer_operating",
+      "huggingface_repo": "TyangJN/robosyn-act-10tasks",
+      "revision": "5e874cb84a27bdf02c9dfc89781a73a48584608f",
+      "subfolder": "mixer_operating",
+      "model_sha256": "b9bab74cfa5e9d9ad31476eec4f22ae326d1a20f5047cc7f7bcb1ff34b9e1ba7"
+    },
+    {
+      "task": "item_assembly",
+      "huggingface_repo": "TyangJN/robosyn-act-10tasks",
+      "revision": "5e874cb84a27bdf02c9dfc89781a73a48584608f",
+      "subfolder": "item_assembly",
+      "model_sha256": "c57dfe960565ca7c3bdd099d3ed22ddab19b2a3b8801a2c2cbaea5ad362b6cf8"
+    },
+    {
+      "task": "manipulate_pipette",
+      "huggingface_repo": "TyangJN/robosyn-act-10tasks",
+      "revision": "5e874cb84a27bdf02c9dfc89781a73a48584608f",
+      "subfolder": "manipulate_pipette",
+      "model_sha256": "5936969548b27fe8fbb6ac56de4bc8b6fb85bd5a997dd6264412e429dc8b55c2"
+    },
+    {
+      "task": "sample_loading",
+      "huggingface_repo": "TyangJN/robosyn-act-10tasks",
+      "revision": "5e874cb84a27bdf02c9dfc89781a73a48584608f",
+      "subfolder": "sample_loading",
+      "model_sha256": "c06ebac4f8e8f3dfd61f6624d269fe2e5d61c8967cbb5e62f4d9e8d0b8928f58"
+    }
+  ]
+}

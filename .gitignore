@@ -1,0 +1,14 @@
+# Model weights are published on Hugging Face only.
+*.safetensors
+*.bin
+*.pt
+*.pth
+checkpoints/
+# Training records and local evaluation artifacts are not part of this release.
+train_config.json
+finetune_provenance.json
+*.log
+__pycache__/
+*.pyc
+.venv/
+.DS_Store
